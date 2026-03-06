@@ -455,5 +455,3 @@ def processamento_da_imagem(file_name, identification_method="template"):
         return detected_board
     else:
         return None
-
-#processamento_da_imagem(file_name,"cnn")
